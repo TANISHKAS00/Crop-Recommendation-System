@@ -10,7 +10,7 @@ The project compares multiple Machine Learning models and automatically selects 
 
 🔗 Streamlit App
 
-[http://localhost:8501/]
+[https://crop-recommendation-system-mhepwy5vnwwfwuarbu5jgy.streamlit.app/]
 
 ---
 
